@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: lato, sans-serif;
+    color: var(--clrPrimary);
+    line-height: 1.25rem;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: var(--clrPrimary-2);
+    text-decoration: none;
+}
